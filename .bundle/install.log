@@ -1,0 +1,22 @@
+# Logfile created on 2014-03-17 20:06:55 -0700 by logger.rb/41954
+I, [2014-03-17T20:06:55.640742 #62869]  INFO -- : 0:  timers (1.1.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/timers-1.1.0.gemspec
+I, [2014-03-17T20:06:55.641709 #62869]  INFO -- : 0:  celluloid (0.15.2) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/celluloid-0.15.2.gemspec
+I, [2014-03-17T20:06:55.642274 #62869]  INFO -- : 0:  nio4r (1.0.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/nio4r-1.0.0.gemspec
+I, [2014-03-17T20:06:55.642786 #62869]  INFO -- : 0:  celluloid-io (0.15.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/celluloid-io-0.15.0.gemspec
+I, [2014-03-17T20:06:55.643326 #62869]  INFO -- : 0:  coderay (1.1.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-03-17T20:06:55.643853 #62869]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-03-17T20:06:55.644458 #62869]  INFO -- : 0:  execjs (2.0.2) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-03-17T20:06:55.645134 #62869]  INFO -- : 0:  coffee-script (2.2.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-03-17T20:06:55.645839 #62869]  INFO -- : 0:  ffi (1.9.3) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/ffi-1.9.3.gemspec
+I, [2014-03-17T20:06:55.646498 #62869]  INFO -- : 0:  formatador (0.2.4) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/formatador-0.2.4.gemspec
+I, [2014-03-17T20:06:55.647450 #62869]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-03-17T20:06:55.648172 #62869]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-03-17T20:06:56.632802 #62869]  INFO -- : 0:  listen (2.7.1) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/listen-2.7.1.gemspec
+I, [2014-03-17T20:06:56.633587 #62869]  INFO -- : 0:  lumberjack (1.0.4) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/lumberjack-1.0.4.gemspec
+I, [2014-03-17T20:06:56.634252 #62869]  INFO -- : 0:  method_source (0.8.2) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-03-17T20:06:57.027499 #62869]  INFO -- : 0:  slop (3.5.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.5.0.gemspec
+I, [2014-03-17T20:06:57.027960 #62869]  INFO -- : 0:  pry (0.9.12.6) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-17T20:06:57.028347 #62869]  INFO -- : 0:  thor (0.18.1) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.18.1.gemspec
+I, [2014-03-17T20:06:57.028638 #62869]  INFO -- : 0:  guard (2.5.1) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/guard-2.5.1.gemspec
+I, [2014-03-17T20:06:58.054678 #62869]  INFO -- : 0:  guard-coffeescript (1.4.0) from /Users/hank/.rvm/gems/ruby-2.0.0-p353/specifications/guard-coffeescript-1.4.0.gemspec
+I, [2014-03-17T20:06:58.055478 #62869]  INFO -- : 0:  bundler (1.5.1) from /Users/hank/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
