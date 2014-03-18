@@ -51,39 +51,8 @@ for (stat in statValues) {
   min = Math.min.apply(null, values);
   minMax[stat] = [min, max];
 }
-~~~
 
-Then in the code editor, use this function:
-
-~~~javascript
-function(game, team1, team2) {
-  var normalize, stat, weighted;
-  team1.score = 0;
-  team2.score = 0;
-  normalize = function(num, stat) {
-    var max, min, _ref;
-    _ref = minMax[stat], min = _ref[0], max = _ref[1];
-    return (num - min) / (max - min);
-  };
-  weighted = function(team, stat) {
-    var normal;
-    normal = normalize(team[stat], stat);
-    return normal * weights[stat];
-  };
-  for (stat in weights) {
-    if (!team1[stat]) {
-      console.log("" + stat + " is not a valid statistic");
-      continue;
-    }
-    team1.score += weighted(team1, stat);
-    team2.score += weighted(team2, stat);
-  }
-  if (team1.score >= team2.score) {
-    return team1.winsGame();
-  } else {
-    return team2.winsGame();
-  }
-}
+editor.setValue("function(game, team1, team2) {\n  var normalize, stat, weighted;\n  team1.score = 0;\n  team2.score = 0;\n  normalize = function(num, stat) {\n    var max, min, _ref;\n    _ref = minMax[stat], min = _ref[0], max = _ref[1];\n    return (num - min) / (max - min);\n  };\n  weighted = function(team, stat) {\n    var normal;\n    normal = normalize(team[stat], stat);\n    return normal * weights[stat];\n  };\n  for (stat in weights) {\n    if (!team1[stat]) {\n      console.log(\"\" + stat + \" is not a valid statistic\");\n      continue;\n    }\n    team1.score += weighted(team1, stat);\n    team2.score += weighted(team2, stat);\n  }\n  if (team1.score >= team2.score) {\n    return team1.winsGame();\n  } else {\n    return team2.winsGame();\n  }\n}");
 ~~~
 
 Hit `generate` and watch your bracket get made!! You can
