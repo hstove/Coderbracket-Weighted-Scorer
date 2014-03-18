@@ -3,7 +3,6 @@
 # to add, remove, and tweak this
 # list!
 weights =
-  cbs_rank: 4
   def_reb: 2
   off_reb: 2
   free_throw_pct: 3
