@@ -1,7 +1,7 @@
-# [CoderBracket](https://www.codersbracket.com) Weighted Scoring
+# [CodersBracket](https://www.codersbracket.com) Weighted Scoring
 
 This is some code for filling out a bracket based on
-a 'score based' methodology. [CoderBracket](https://www.codersbracket.com)
+a 'score based' methodology. [CodersBracket](https://www.codersbracket.com)
 provides most of what we need for this.
 
 This works by assigning weights to statistics that
@@ -12,7 +12,7 @@ score is the sum of the scores for every statistic.
 
 ## How To
 
-Create an account on [CoderBracket](https://www.codersbracket.com)
+Create an account on [CodersBracket](https://www.codersbracket.com)
 and start a new bracket.
 
 Open the developer console, and paste in this code.
